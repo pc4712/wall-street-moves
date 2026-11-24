@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wall-street-moves.pages.dev/sitemap.xml
